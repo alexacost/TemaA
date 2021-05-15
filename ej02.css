@@ -1,0 +1,12 @@
+html {
+    background-color: green;
+}
+p {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    
+}
+
